@@ -1,0 +1,16 @@
+.Mydiv{
+text-align: center;
+image-rendering: auto;
+}
+.cont{
+    color: blue;
+    font-weight: bold;
+    font-style: "楷体";
+background-color: darkmagenta;
+background-size: 0pc;
+}
+h1:link,
+h1:hover{
+color: black
+
+}
